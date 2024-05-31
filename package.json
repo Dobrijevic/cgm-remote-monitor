@@ -63,8 +63,7 @@
         "node_modules"
       ]
     }
-  }
-  
+  },
   "dependencies": {
     "@babel/core": "^7.18.10",
     "@babel/preset-env": "^7.18.10",
